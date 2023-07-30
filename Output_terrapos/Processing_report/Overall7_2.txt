@@ -1,0 +1,59 @@
+--------------------------------------------------------------------------------
+ S O F T W A R E   V E R S I O N
+--------------------------------------------------------------------------------
+
+TerraPOS version: 2.5.8p2 (18b0ea491), system files version: 2022-06-10
+
+--------------------------------------------------------------------------------
+ N A V I G A T I O N   F I L E   S U M M A R Y
+--------------------------------------------------------------------------------
+
+ Result identifier         : 1655141070
+
+ First record              : 2021 05 13 12 56 41.0
+ Last  record              : 2021 05 14 00 43 57.1
+ Average time increment    :  0.005 s  (200.0 Hz)
+ No. recs. with valid pos. : 8487229
+ No. recs. with valid vel. : 8487229
+ No. recs. with valid att. : 8487229
+
+
+--------------------------------------------------------------------------------
+ N A V I G A T I O N   P E R F O R M A N C E   S U M M A R Y
+--------------------------------------------------------------------------------
+
+                          Min.     1%      5%     50%     95%     99%     Max. 
+--------------------------------------------------------------------------------------
+Pos. hor.  std. dev.     0.039   0.039   0.039   0.039   0.041   0.042   0.058  [ m ]
+Pos. vert. std. dev.     0.040   0.042   0.042   0.043   0.044   0.044   0.069  [ m ]
+Vel. hor.  std. dev.     0.008   0.008   0.008   0.008   0.008   0.008   0.015  [m/s]
+Vel. vert. std. dev.     0.006   0.006   0.006   0.006   0.006   0.006   0.010  [m/s]
+Roll       std. dev.     0.017   0.017   0.017   0.017   0.018   0.018   0.029  [deg]
+Pitch      std. dev.     0.017   0.017   0.017   0.017   0.018   0.018   0.028  [deg]
+Heading    std. dev.     0.082   0.083   0.085   0.096   0.110   0.117   0.174  [deg]
+
+--------------------------------------------------------------------------------
+ I N P U T   F I L E S   S U M M A R Y
+--------------------------------------------------------------------------------
+
+Mounting parameters
+ Mount file                     : [...]APPK/IAPPK_13_2_maio/IAPPK13_2.tp_proj/IAPPK_teste\IAPPK13_2.mnt
+
+Raw data files
+ GNSS main observation file     : [...]_2.tp_proj/IAPPK_teste\extract_rover\Session_01\primary_gnss.rnx
+ GNSS sec. observation file     : [...].tp_proj/IAPPK_teste\extract_rover\Session_01\secondary_gnss.rnx
+ IMU raw data file              : [...]3_2.tp_proj/IAPPK_teste\extract_rover\Session_01\primary_imu.dat
+
+GNSS products
+ Ephemeris file                 : [...]maio/IAPPK13_2.tp_proj/IAPPK_teste\download\COD21574.EPH_M (GRE)
+ Ephemeris file                 : [...]maio/IAPPK13_2.tp_proj/IAPPK_teste\download\COD21575.EPH_M (GRE)
+ Satellite clock file           : [...]maio/IAPPK13_2.tp_proj/IAPPK_teste\download\COD21574.CLK_M (GRE)
+ Satellite clock file           : [...]maio/IAPPK13_2.tp_proj/IAPPK_teste\download\COD21575.CLK_M (GRE)
+ Earth rotation parameters file : [...]_13_2_maio/IAPPK13_2.tp_proj/IAPPK_teste\download\COD21574.ERP_M
+ Earth rotation parameters file : [...]_13_2_maio/IAPPK13_2.tp_proj/IAPPK_teste\download\COD21575.ERP_M
+
+Other
+ Antenna correction file        : igs14.atx
+
+
+

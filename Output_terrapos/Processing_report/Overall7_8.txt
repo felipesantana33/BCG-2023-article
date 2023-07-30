@@ -1,0 +1,54 @@
+--------------------------------------------------------------------------------
+ S O F T W A R E   V E R S I O N
+--------------------------------------------------------------------------------
+
+TerraPOS version: 2.5.8p2 (18b0ea491), system files version: 2022-06-10
+
+--------------------------------------------------------------------------------
+ N A V I G A T I O N   F I L E   S U M M A R Y
+--------------------------------------------------------------------------------
+
+ Result identifier         : 1655087687
+
+ First record              : 2021 05 13 12 56 41.0
+ Last  record              : 2021 05 14 00 43 57.0
+ Average time increment    :  1.000 s  (1.0 Hz)
+ No. recs. with valid pos. :  42437
+ No. recs. with valid vel. :  42437
+ No. recs. with valid att. :      0
+
+
+--------------------------------------------------------------------------------
+ N A V I G A T I O N   P E R F O R M A N C E   S U M M A R Y
+--------------------------------------------------------------------------------
+
+                          Min.     1%      5%     50%     95%     99%     Max. 
+--------------------------------------------------------------------------------------
+Pos. hor.  std. dev.     0.011   0.011   0.011   0.011   0.011   0.011   0.046  [ m ]
+Pos. vert. std. dev.     0.017   0.017   0.017   0.017   0.018   0.018   0.053  [ m ]
+Vel. hor.  std. dev.     0.042   0.044   0.044   0.048   0.051   0.058   0.060  [m/s]
+Vel. vert. std. dev.     0.056   0.057   0.058   0.062   0.066   0.067   0.119  [m/s]
+
+--------------------------------------------------------------------------------
+ I N P U T   F I L E S   S U M M A R Y
+--------------------------------------------------------------------------------
+
+Raw data files
+ GNSS main observation file     : C:/tmp\rtcm2rinex\Dia 13\result_13_2_correto.rinex
+
+GNSS products
+ Ephemeris file                 : [...]maio/IAPPK13_2.tp_proj/IAPPK_teste\download\COD21574.EPH_M (GRE)
+ Ephemeris file                 : [...]maio/IAPPK13_2.tp_proj/IAPPK_teste\download\COD21575.EPH_M (GRE)
+ Satellite clock file           : [...]maio/IAPPK13_2.tp_proj/IAPPK_teste\download\COD21574.CLK_M (GRE)
+ Satellite clock file           : [...]maio/IAPPK13_2.tp_proj/IAPPK_teste\download\COD21575.CLK_M (GRE)
+ Earth rotation parameters file : [...]_13_2_maio/IAPPK13_2.tp_proj/IAPPK_teste\download\COD21574.ERP_M
+ Earth rotation parameters file : [...]_13_2_maio/IAPPK13_2.tp_proj/IAPPK_teste\download\COD21575.ERP_M
+
+Differential GNSS
+ DGNSS setup file               : [...]14_mai\rjni_dia_13_14_correto\Dia_13_14_RJNI_ONRJ_epoca_2021.ref
+
+Other
+ Antenna correction file        : igs14
+
+
+

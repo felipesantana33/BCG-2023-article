@@ -1,0 +1,47 @@
+--------------------------------------------------------------------------------
+ S O F T W A R E   V E R S I O N
+--------------------------------------------------------------------------------
+
+TerraPOS version: 2.5.8p2 (18b0ea491), system files version: 2022-06-10
+
+--------------------------------------------------------------------------------
+ N A V I G A T I O N   F I L E   S U M M A R Y
+--------------------------------------------------------------------------------
+
+ Result identifier         : 1654897331
+
+ First record              : 2021 05 14 11 36 03.0
+ Last  record              : 2021 05 14 17 44 27.0
+ Average time increment    :  0.005 s  (200.0 Hz)
+ No. recs. with valid pos. : 4420800
+ No. recs. with valid vel. : 4420800
+ No. recs. with valid att. : 4420800
+
+
+--------------------------------------------------------------------------------
+ N A V I G A T I O N   P E R F O R M A N C E   S U M M A R Y
+--------------------------------------------------------------------------------
+
+                          Min.     1%      5%     50%     95%     99%     Max. 
+--------------------------------------------------------------------------------------
+Pos. hor.  std. dev.     0.038   0.041   0.042   0.044   0.044   0.044   0.061  [ m ]
+Pos. vert. std. dev.     0.029   0.029   0.029   0.029   0.029   0.029   0.046  [ m ]
+Vel. hor.  std. dev.     0.009   0.009   0.009   0.009   0.010   0.010   0.024  [m/s]
+Vel. vert. std. dev.     0.006   0.006   0.006   0.006   0.006   0.006   0.010  [m/s]
+Roll       std. dev.     0.015   0.015   0.015   0.015   0.016   0.016   0.029  [deg]
+Pitch      std. dev.     0.015   0.015   0.015   0.015   0.016   0.016   0.028  [deg]
+Heading    std. dev.     0.204   0.208   0.223   0.262   0.587   0.825   0.971  [deg]
+
+--------------------------------------------------------------------------------
+ I N P U T   F I L E S   S U M M A R Y
+--------------------------------------------------------------------------------
+
+Mounting parameters
+ Mount file                     : [...]with_reference_station_rx3/IAPPK/IAPPK_14_maio\IAPPK_14_maio.mnt
+
+Raw data files
+ Position aiding subproject     : [...]o\IAPPK_14_maio.tp_proj\Dia14_PPP_2_antenas_movimento.tp_subproj
+ IMU raw data file              : [...]rx3/IAPPK/IAPPK_14_maio\extract_rover\Session_01\primary_imu.dat
+
+
+
